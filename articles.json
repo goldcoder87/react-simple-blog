@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "JavaScript Promises",
+      "body": "Don't make Promises you can't resolve!"
+    },
+    {
+      "id": 2,
+      "title": "Just Harry Potter Things...",
+      "body": "Something something muggle. Something something hufflepuff."
+    },
+    {
+      "title": "dhdihfog",
+      "id": 3,
+      "body": "psshshshs"
+    },
+    {
+      "title": "hfhisdf",
+      "id": 4,
+      "body": "dojhgrogjr"
+    },
+    {
+      "title": "rhgrohgtohr",
+      "id": 5,
+      "body": "rghrighriw"
+    },
+    {
+      "title": "ithoitehogh`",
+      "id": 6,
+      "body": "hgorhgoth"
+    }
+  ]
+}
